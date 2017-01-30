@@ -1,0 +1,16 @@
+{
+  "name": "shinyform",
+  "version": "1.0.1",
+  "description": "Design form plugin for jQuery",
+  "homepage": "https://github.com/bustlemusic/shinyform",
+  "author": "Léo Fontin",
+  "private": true,
+  "main": "js/jquery.shinyform.js",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 6.0"
+  }
+}

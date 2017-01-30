@@ -4,7 +4,7 @@
 * Réalisé pour leofontin.fr et à disposition selon les termes de la licence Creative Commons. http://creativecommons.org/licenses/by-sa/3.0/
 */
 
-(function($) {
+module.exports = function ($) {
   $.fn.shinyform = function (options) {
     /// --- SELECT --- ///
     function shiny_select (elem){
@@ -351,4 +351,4 @@
       }
     });
   };
-});
+};
