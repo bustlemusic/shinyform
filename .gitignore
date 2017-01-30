@@ -1,0 +1,20 @@
+# node
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+
+# intellij
+project/project
+project/target
+/*.iml
+/.idea
+/.idea_modules
+
+# eclipse
+/.classpath
+/.project
+/.settings
+
+# config
+.env*
